@@ -9,7 +9,9 @@ Not everything needs a theme.
 <h2>Collections</h2>
 
 <details>
-<summary>Across the Ambling Expanse</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Across the Ambling Expanse
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/other/firewizard.png" alt="firewizard"/>
@@ -28,7 +30,9 @@ Not everything needs a theme.
 </details>
 
 <details>
-<summary>Pokemon</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Pokemon
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/other/star_outline_1.png" alt="arceus" width=465/>

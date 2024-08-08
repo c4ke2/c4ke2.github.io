@@ -11,7 +11,9 @@ Plus, drawing astronauts means I don't have to draw human hands and faces.
 <h2>Collections</h2>
 
 <details>
-<summary>Welcome to Sector 423</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Welcome to Sector 423
+</summary>
 <br>
 <p  style="text-align: center;">
 I wrote some slice-of-life sci-fi back in grade 11. I love the world and characters, but the plot never found proper footing.
@@ -34,8 +36,12 @@ These concept images showed what space suits might look like for different creat
 </p>
 </details>
 
+<p>
+
 <details>
-<summary>Outer Wilds</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Outer Wilds
+</summary>
 <br>
 <p  style="text-align: center;">
 My favourite video game is all about space and existentialism.

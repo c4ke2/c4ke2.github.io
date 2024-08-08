@@ -3,7 +3,7 @@ Cryptid Coverup
 </h1>
 
 <h3 style="text-align: center;">
-These four works were created as part of a digital art course where we were free to choose our own idea.
+These works were created as part of a digital art course where we were free to choose our own idea.
 Each piece centers around the plausable existance of an unknown creature similar in nature to bigfoot and other cryptids.
 Later pieces introduce a mysterious organization who may be doing a purposefully bad job at covering up the creature's existence.
 
@@ -17,7 +17,9 @@ Click the 'about' section of each artwork to find out more!
 <img src="./img/art/cryptid/sighting.jpg" alt="cryptid trail cam" height=750px/>
 </p>
 <details style="text-align: center;">
-<summary>About this Piece</summary>
+<summary style="border-radius: 20px; background: #6e6e6e; padding: 10px; color: #FFFF;">
+About this Piece
+</summary>
 <br>
 "Sighting" was created in Photoshop for a composite image assignment.
 
@@ -46,7 +48,9 @@ When first conceptualizing the beast, I only knew I wanted it to have a chicken'
 <img src="./img/art/cryptid/poster.png" alt="cryptid poster" height=750px/>
 </p>
 <details style="text-align: center;">
-<summary>About this Piece</summary>
+<summary style="border-radius: 20px; background: #6e6e6e; padding: 10px; color: #FFFF;">
+About this Piece
+</summary>
 <br>
 "Have you seen it?" was created in Illustrator for a vector art assignment.
 
@@ -68,7 +72,9 @@ but is doing so very poorly- perhaps on purpose.
 ---
 
 <details style="text-align: center;">
-<summary>Front Cover</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Front Cover
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/cryptid/files1.png" alt="cryptid file" width="40%"/>
@@ -76,7 +82,9 @@ but is doing so very poorly- perhaps on purpose.
 </p>
 </details>
 <details style="text-align: center;">
-<summary>Pages 1-2</summary>
+<summary style="border-radius: 20px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Pages 1-2
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/cryptid/files3.png" alt="cryptid file" width="40%"/>
@@ -84,7 +92,9 @@ but is doing so very poorly- perhaps on purpose.
 </p>
 </details>
 <details style="text-align: center;">
-<summary>Pages 3-4</summary>
+<summary style="border-radius: 20px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Pages 3-4
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/cryptid/files5.png" alt="cryptid file" width="40%"/>
@@ -92,7 +102,9 @@ but is doing so very poorly- perhaps on purpose.
 </p>
 </details>
 <details style="text-align: center;">
-<summary>Back Cover</summary>
+<summary style="border-radius: 10px; background: #6e6e6e; padding: 5px; color: #FFFF; margin-bottom: 10px;">
+Back Cover
+</summary>
 <br>
 <p  style="text-align: center;">
 <img src="./img/art/cryptid/files7.png" alt="cryptid file" width="40%"/>
@@ -103,7 +115,9 @@ but is doing so very poorly- perhaps on purpose.
 ---
 
 <details style="text-align: center;">
-<summary>About this Piece</summary>
+<summary style="border-radius: 20px; background: #6e6e6e; padding: 10px; color: #FFFF;">
+About this Piece
+</summary>
 <br>
 "The Files" was created for an assignment to make an 8-page book in InDesign.  I decided to style the book as a file folder containing classified documents.
 

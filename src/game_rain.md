@@ -2,7 +2,7 @@
 	<img src="./img/rain/rainlogo.png" alt="A Walk in the Rain" width=312px/>
 </p>
 
-A Walk in the Rain was a solo practice project I made to learn about the Unity3D engine and how to finish a project.
+A Walk in the Rain was a solo practice project I made to learn about Unity3D, C#, and how to finish a project.
 This game was made during my first year of university, during the COVID-19 pandemic.
 
 The game is a 'walking simulator' focused on a moral dilemma: the player must choose which of the island's inhabitants
@@ -22,7 +22,7 @@ to talk about.
 The aim of this project was to get a feel for how things get finished, built, optimized, etc.
 
 
-Having minimal gameplay- and thus minimal oppurtunity for scope creep- was a goal from the beginning.
+Having minimal gameplay- and thus minimal opportunity for scope creep- was a goal from the beginning.
 
 <p  style="text-align: center;">
 	<img src="./img/rain/flowercave.jpg" alt="a cave with flowers" width=465px/>

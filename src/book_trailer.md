@@ -6,7 +6,7 @@ About the Trailer
 Technical Details & Process
 </h2>
 
-I made this to experiment with Unreal Engine, which I had never used before.  It also seemed like a good excuse that would let me visibly 'explore' the world I'd created.
+I made this to experiment with Unreal Engine, which I had never used before.  It also seemed like a good excuse that would let me visually 'explore' the world I'd created.
 This video was created in Unreal Engine 5, using free assets (or 'free for the month' assets).
 
 Every environment lies to the camera.  If the camera were moved even an inch up, it would be revealed that there is a twenty-meter blue void between each 'layer' of land.
@@ -23,7 +23,7 @@ Similarly, the trees in the final scene are not actually trees, but trunks with 
 <img src="./img/writing/scene1.PNG" alt="broken forest" width=75%/>
 </p>
 
-The strange creatures in the first scene use the model and animations of some oddly shaped and scaled cartoon dragon models.  The sparkly apperance is a shader I created myself.
+The strange creatures in the first scene use the model and animations of some oddly shaped and scaled cartoon dragon models.  The sparkly appearance is a shader I created myself.
 The aim for this was to find the weirdest shaped models I could so that the creatures do not resemble any known animal.
 The goal was for the viewer to squint and guess at what they were looking at, rather than going "That's a sparkly fox."
 
@@ -42,7 +42,7 @@ What is happening?
 General
 </h3>
 
-The first shots of the trailer are of the world itself, an ideallic valley covered in forest and farmland.  Somewhere in the forests is a figure with limbs made of stone who has finally found what she is looking for: a mystical tree.\
+The first shots of the trailer are of the world itself, an idyllic valley covered in forest and farmland.  Somewhere in the forests is a figure with limbs made of stone who has finally found what she is looking for: a mystical tree.\
 At the beginning of the novel, she has already found this tree and has moved onto the next stage of her plan, meaning this trailer provides a brief look into something that happened before the story.
 
 <h3>
@@ -50,7 +50,7 @@ The Forest
 </h3>
 
 A shrine in the forest where unidentifiable creatures play.  These creatures are Earth Spirits, who believe these sorts of shrines bring safety.
-  The spirits are elusive, and their energy is the source of the world's supernatural oddities.  These creatures are amorphus and often take shapes that crudely mimic animals.
+  The spirits are elusive, and their energy is the source of the world's supernatural oddities.  These creatures are amorphous and often take shapes that crudely mimic animals.
 
 <h3>
 The Crows

@@ -5,6 +5,8 @@
 Mega Mystery Mansion is a game I made for a project in grade 12 with three of my friends.
 It is a goofy point-and-click puzzle game set in a mansion containing talking rats, pool-playing ghosts, dancing skeletons, and more!
 
+Mega Mystery Mansion was made in Unity 2D, using object-oriented C#.
+
 <p  style="text-align: center;">
 	<img src="./img/MMM/pool.jpg" alt="A level about collecting pool balls" width=465px/>
 </p>

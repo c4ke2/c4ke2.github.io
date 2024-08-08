@@ -7,6 +7,8 @@ Cats you befriend will help you in your quest to solve the town mystery!
 
 The game is 100% feature-complete, with things like beautifying, playtesting, and bug-fixing ahead.
 
+Cat Crazy was made in RPGMaker MV with many custom and modified assets.  RPGMaker MV is a javascript-based game engine.
+
 <p  style="text-align: center;">
 	<img src="./img/CatCrazy/statue.jpg" alt="player and a cat stand before a statue" width=465px/>
 </p>
